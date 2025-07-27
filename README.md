@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>👟 Nike Landing Page</h1>
-  <p>A sleek and modern Nike landing page UI built with HTML, CSS, and JavaScript.</p>
+  <p>A sleek and modern Nike landing page UI built with HTML and CSS Only...</p>
   <img src="Nike%20Landing%20Page/images/screenshot.PNG" alt="Nike Landing Page Screenshot" width="100%"/>
 </div>
 
